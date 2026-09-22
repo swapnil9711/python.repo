@@ -3,6 +3,12 @@ y=80
 z=100
 r=x+y+z
 print (r)
+print("ajay is tester")
 
-print("developer Section")
-system.out.println(s)
+x =90 
+y=80
+z=100
+r=x+y+z
+print (r)
+print("snehlata is tester )
+
