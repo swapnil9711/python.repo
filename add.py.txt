@@ -1,22 +1,5 @@
-<<<<<<< HEAD
-x =90 
-y=80
-z=100
-r=x+y+z
-print (r)
-
-a=43
-b=98
-c=a+b;
-print(hello)
-=======
-a =10 
-b=20
-c=a+b
-print (c)
-
 x =10 
 y=20
 z=a+b
 print (c)
->>>>>>> developer
+
